@@ -3,8 +3,8 @@
 ##
 <div align="center">
   <a href="https://github.com/gumiguell">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gumiguell&layout=compact&theme=midnight-purple">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gumiguell&theme=midnight-purple&show_icons=true"> 
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gumiguell&layout=compact&theme=dark">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gumiguell&theme=dark&show_icons=true"> 
 
 </div>
 
