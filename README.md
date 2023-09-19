@@ -3,10 +3,10 @@
 ##
 <div align="center">
   <a href="https://github.com/gumiguell/convoychat">
-    <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gumiguell&layout=donut&theme=transparent" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gumiguell&layout=donut&theme=transparent" />
   </a>
   <a href="https://github.com/gumiguell/github-readme-stats">
-    <img height=200 align="left" src="https://media.giphy.com/media/3og0IFrHkIglEOg8Ba/giphy.gif" alt="Black And White Error" frameBorder="0" class="giphy-embed" />
+    <img height=200 align="center" src="https://media.giphy.com/media/3og0IFrHkIglEOg8Ba/giphy.gif" alt="Black And White Error" frameBorder="5" class="giphy-embed" />
   </a>
 
 </div>
