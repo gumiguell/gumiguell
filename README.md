@@ -3,7 +3,7 @@
 ##
 <div align="center">
   <a href="https://github.com/gumiguell">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gumiguell&theme=transparent">
+  <img src="https://github-readme-stats.vercel.app/api?username=gumiguell&show_icons=true&theme=transparent">
 
 </div>
 
