@@ -3,7 +3,7 @@
 ##
 <div align="center">
   <a href="https://github.com/gumiguell">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gumiguell&layout=compact&theme=gradient">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gumiguell&layout=compact&theme=github_dark">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gumiguell&theme=dark&show_icons=true"> 
 
 </div>
