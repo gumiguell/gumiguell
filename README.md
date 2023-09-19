@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://github.com/gumiguell">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gumiguell&theme=transparent">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gumiguell&theme=transparent>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gumiguell&theme=transparent">
 
 </div>
 
