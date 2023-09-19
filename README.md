@@ -3,6 +3,7 @@
 ##
 <div align="center">
   <a href="https://github.com/gumiguell">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gumiguell&theme=transparent">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gumiguell&layout=compact&theme=github_dark">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gumiguell&theme=github_dark&show_icons=true"> 
 
