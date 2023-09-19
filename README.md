@@ -3,8 +3,9 @@
 ##
 <div align="center">
   <a href="https://github.com/gumiguell">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gumiguell&layout=compact&langs_count=7&theme=highcontrast"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gumiguell&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gumiguell&theme=midnight-purple&show_icons=true" width="50%"> 
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gumiguell&layout=compact&theme=midnight-purple" width="46.06%">
+
 </div>
 
 ##
