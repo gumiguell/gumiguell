@@ -6,7 +6,7 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gumiguell&theme=transparent" />
   </a>
   <a href="https://github.com/gumiguell/convoychat">
-    <img height=200 align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gumiguell&layout=donut)](https://github.com/gumiguell/github-readme-stats)" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gumiguell&layout=donut" />
   </a>
 
 </div>
